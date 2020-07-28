@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![alt text](https://i.imgur.com/O1LJ0KS.jpg "Mug Shot")
+
