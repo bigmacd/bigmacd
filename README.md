@@ -3,14 +3,28 @@
       <img src="https://i.imgur.com/O1LJ0KS.jpg" alt="Mug Shot"/>
   </div>
   <div id="intro">
-    Something about software, coding something something, friend of all the basses.
+    <ul>
+      <li>
+        Something about software
+      </li>
+      <li>
+        Coding something something
+      </li>
+      <li>
+        Friend of all the basses
+        <ul>
+          <li>🎸</li>
+          <li>🍺</li>
+          <li>🐟</li>
+        </ul>
+      </li>
+    </ul>
+    
+    🔭 I’m currently working on Azure DevOps and building CI/CD pipelines using terraform  
   </div>
 </div>
 <!--
-**bigmacd/bigmacd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
