@@ -3,6 +3,7 @@
       <img src="https://i.imgur.com/O1LJ0KS.jpg" alt="Mug Shot"/>
   </div>
   <div id=intro>
+    Something about software, coding something something, friend of all the basses.
   </div>
 </div>
 <!--
