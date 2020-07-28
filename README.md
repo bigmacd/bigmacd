@@ -1,8 +1,8 @@
 <div id=container>
-  <div id=pic float="right">
+  <div id="pic" align="right">
       <img src="https://i.imgur.com/O1LJ0KS.jpg" alt="Mug Shot"/>
   </div>
-  <div id=intro>
+  <div id="intro">
     Something about software, coding something something, friend of all the basses.
   </div>
 </div>
