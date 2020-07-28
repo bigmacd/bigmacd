@@ -1,5 +1,5 @@
-### Hi there 👋
 
+<img align="right" src="https://i.imgur.com/O1LJ0KS.jpg" alt="Mug Shot"/>
 <!--
 **bigmacd/bigmacd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![alt text](https://i.imgur.com/O1LJ0KS.jpg "Mug Shot")
+
 
