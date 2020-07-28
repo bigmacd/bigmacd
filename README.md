@@ -1,5 +1,10 @@
-
-<img align="right" src="https://i.imgur.com/O1LJ0KS.jpg" alt="Mug Shot"/>
+<div id=container>
+  <div id=pic float="right">
+      <img src="https://i.imgur.com/O1LJ0KS.jpg" alt="Mug Shot"/>
+  </div>
+  <div id=intro>
+  </div>
+</div>
 <!--
 **bigmacd/bigmacd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
